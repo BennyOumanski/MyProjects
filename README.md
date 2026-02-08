@@ -1,2 +1,4 @@
 # Binyamin_Umanski_Projects
-All of my projects
+Contains:
+ - VHDL Projects using ModelSim and Quartus.
+ - Cadence Virtuoso PDF files showcasing the work done on the university license.
